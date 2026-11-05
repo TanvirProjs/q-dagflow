@@ -5,8 +5,11 @@ authors:
   - family-names: Sardar
     given-names: Tanvir H.
     affiliation: "Department of Computer Science and Engineering, Dayananda Sagar University, Bengaluru, India"
+    orcid: "https://orcid.org/0000-0001-7880-0225"
 version: 1.0.0
-date-released: 2026-11-03
+date-released: 2026-11-05
+doi: 10.5281/zenodo.23986453
+repository-code: "https://github.com/TanvirProjs/q-dagflow"
 license: MIT
 type: software
 keywords:
