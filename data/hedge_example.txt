@@ -1,0 +1,5 @@
+Eagle-S  mean=17.7 min p95=29.3 min cost=11.7 QPU-min
+Eagle-K  mean=12.1 min p95=17.9 min cost=9.0 QPU-min
+Heron-T  mean=16.4 min p95=36.7 min cost=5.9 QPU-min
+Heron-F  mean=26.4 min p95=69.6 min cost=4.0 QPU-min
+hedged   mean=11.0 min p95=15.1 min cost=8.6 QPU-min

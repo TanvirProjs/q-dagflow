@@ -1,0 +1,18 @@
+{
+  "title": "Q-DAGFlow: simulator, schedulers and experiment data for precision-guaranteed, queue-hedged co-scheduling of hybrid quantum-HPC AI workflows",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Sardar, Tanvir H.",
+      "affiliation": "Dayananda Sagar University"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "hybrid quantum-HPC",
+    "workflow scheduling",
+    "quantum cloud",
+    "simulation"
+  ],
+  "description": "Discrete-event simulator, scheduler implementations (Q-DAGFlow, six baselines and two strengthened baselines), calibration tables derived from public IBM device snapshots, validation scripts, numerical checks of the paper's lemmas and theorem, raw per-run results and analysis scripts. All performance results are simulation outputs produced on a single 2-vCPU Linux virtual machine; no physical quantum processor, computer cluster or GPU was used."
+}
