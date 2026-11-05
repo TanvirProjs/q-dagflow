@@ -1,6 +1,6 @@
 # Q-DAGFlow
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23986453.svg)](https://doi.org/10.5281/zenodo.23986453)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23986454.svg)](https://doi.org/10.5281/zenodo.23986454)
 
 Simulator, schedulers and experiment data for the paper *"Q-DAGFlow: Precision-Guaranteed, Queue-Hedged
 Co-Scheduling of Hybrid Quantum–HPC AI Workflows with LP-Certified Execution-Mode Assignment"* (T. H. Sardar).
@@ -65,7 +65,7 @@ regenerate the calibration inputs (emulation timings will differ on other hardwa
 
 ## Citation
 
-Please cite the archived software as: T. H. Sardar, *Q-DAGFlow: simulator, schedulers and experiment data* (v1.0.0), Zenodo, 2026. https://doi.org/10.5281/zenodo.23986453 (ORCID [0000-0001-7880-0225](https://orcid.org/0000-0001-7880-0225)). See also `CITATION.cff`. Please also cite Qiskit and WfCommons, which this work uses as dependencies.
+Please cite the archived software as: T. H. Sardar, *Q-DAGFlow: simulator, schedulers and experiment data* (v1.0.0), Zenodo, 2026. https://doi.org/10.5281/zenodo.23986454 (ORCID [0000-0001-7880-0225](https://orcid.org/0000-0001-7880-0225)). See also `CITATION.cff`. Please also cite Qiskit and WfCommons, which this work uses as dependencies.
 
 ## License
 
